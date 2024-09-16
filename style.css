@@ -1,0 +1,56 @@
+
+body{
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8bba97ad-76c0-4367-b694-9c9380f2656c/dfi279d-e3a3b68b-3e89-4e01-977a-cd291f2fd146.jpg/v1/fill/w_1280,h_1280,q_75,strp/spongebob_flowers_background_by_psddude_dfi279d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzhiYmE5N2FkLTc2YzAtNDM2Ny1iNjk0LTljOTM4MGYyNjU2Y1wvZGZpMjc5ZC1lM2EzYjY4Yi0zZTg5LTRlMDEtOTc3YS1jZDI5MWYyZmQxNDYuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.NgYqj0QGEmOiUEfnkYDCEwb27A1jTQ31w7KKmW-_6rA")
+    
+}
+h1{
+    text-align: center;
+    font-family:sans-serif;
+    color:white}
+
+
+p{
+    text-align:center;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    
+    font-size: 18px;
+}
+
+img{
+    margin: auto;
+}
+
+a{
+    margin-left: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+.blogg-post{
+    border: 3px solid black;
+    margin: 10px; 
+    padding: 20px; 
+    background-color: white;
+    
+    
+
+}
+
+.blogg-post p {
+    text-align: left;
+}
+
+
+.andrasidan p {
+    border: 3px solid black;
+    margin: auto;
+    margin-top: 10px; 
+    width: 40vw;
+    padding: 20px; 
+    background-color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
